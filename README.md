@@ -1,3 +1,3 @@
 # logic
-Tests and solutions for Stanford's CS221 class. This specific repo is focused on Logic.
+Tests and solutions for Stanford's CS221 class. This specific repo is focused on Logic. My part of code is in 'submission.py' file between 'BEGIN_YOUR_CODE' and 'END_YOUR_CODE'. Tests can be executed by running 'grader.py' file. More information about the assignment can be found by opening 'index.html' file. Solutions to the written part of the assignments are not published but I am happy to discuss them in person.
 Modelling English sentences as logical expressions and formulas, defining the relationships between objects, using logical expressions to solve a game of liars and prove mathematical theorems.
